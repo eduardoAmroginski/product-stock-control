@@ -13,4 +13,4 @@
 
 ## Objective
 
-This application has the objective to examplefy a product stock control from a store.
+This application has the objective to exemplify a product stock control from a store.
