@@ -1,0 +1,103 @@
+tmp/*
+.cache/
+*.orig
+# python ignores bootstrap
+*.pyc
+*.swp
+*~
+node_modules/
+.vscode/
+
+cscope*
+*.pyo
+_build
+.coverage
+.DS_Store
+.ropeproject
+*.py[co]
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+var
+sdist
+develop-eggs
+.installed.cfg
+conf_local.py
+collect
+/media/
+
+::memory::
+::memory::-journal
+nose.cfg
+
+# Installer logs
+pip-log.txt
+
+# Thumbnails
+*.db
+
+# Unit test / coverage reports
+.coverage
+.tox
+
+#Mr Developer
+.mr.developer.cfg
+
+# Arquivos do PyDev
+.pydevproject
+
+# PyCharm
+.idea/*
+/.idea
+
+#Jpipe
+hs_err*
+
+gunicorn_local.py
+settings_local_arq.py
+settings_local_prod.py
+static/admin
+static/collect
+static/media
+protected
+
+
+nohup.out
+#logs
+*log-*.log
+*.log.*
+*.log
+*.pid
+junit*.xml
+
+
+.directory
+siteoff
+
+# virtualenv
+/.Python
+/bin/
+/include/
+/share/
+/lib/
+/man/
+
+blended/settings_local.py
+blended/settings.py
+*.orig
+
+node_modules
+
+.DS_Store
+\.DS_Store
+~$*
+
+# settings
+.env
+
+# Pasta que contem chaves para integração hubble e bitbucket
+./local-keys
